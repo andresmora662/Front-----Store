@@ -10,7 +10,7 @@ const App = () => {
                 <li><a href="#">Inicio</a></li>
                 <li><a href="#">Productos</a></li>
                 <li><a href="#">Ofertas</a></li>
-                <li><a href="#">Login</a></li>
+                <li><a href="http://localhost:5173/login">Login</a></li>
             </ul>
         </nav>
     </header>
